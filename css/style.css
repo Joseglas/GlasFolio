@@ -3,7 +3,7 @@
 ======================================*/
 
 body {
-  background-color: #303030;
+  background-color: #f2f2f2;
   color: #4e4e4e;
 }
 
@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-  color: #ff9d00;
+  color: #3B3B3B;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -32,7 +32,7 @@ a:hover {
 }
 
 .color-a {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .color-d {
@@ -63,7 +63,7 @@ a:hover {
 }
 
 .display-6 {
-  font-size: 2rem;
+  font-size: 15rem;
   font-weight: 300;
   line-height: 1.1;
 }
@@ -83,7 +83,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
 }
 
 .overlay-mf {
@@ -98,7 +98,7 @@ a:hover {
 
 .paralax-mf {
   position: relative;
-  padding: 8rem 0;
+  padding: rem 0;
 }
 
 .display-table {
@@ -144,17 +144,17 @@ a:hover {
   font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: #f2f2f2;
+  color: #626262;
 }
 
 .subtitle-a {
-  color: #ff9d00;
+  color: #A8A8A8;
 }
 
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   margin: 0 auto;
 }
 
@@ -173,12 +173,12 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   width: 100px;
   bottom: -12px;
 }
 
-/*------/ Box /------*/
+/*------/ About me /------*/
 
 .box-pl2 {
   padding-left: 2rem;
@@ -210,12 +210,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #ff9d00;
+  box-shadow: 0 0 0 3px #3B3B3B;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   color: #fff;
   box-shadow: 0 0 0 3px #f5f7fa;
   transition: all 500ms ease;
@@ -240,7 +240,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #ff9d00;
+  color: #3B3B3B;
   margin-right: 10px;
 }
 
@@ -254,7 +254,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #ff9d00;
+  box-shadow: 0 0 0 10px #3B3B3B;
   display: block;
 }
 
@@ -301,7 +301,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -320,7 +320,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #ff9d00;
+  background: #ffdb00;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -336,7 +336,7 @@ a:hover {
 
 .back-to-top i {
   padding-top: 12px;
-  color: #fff;
+  color: #3B3B3B;
 }
 
 /* Prelaoder */
@@ -358,7 +358,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #ff9d00;
+  border-top: 6px solid #3B3B3B;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -475,32 +475,33 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .navbar-b.navbar-reduce .navbar-toggler span {
   background-color: #1B1B1B;
 }
 
+/* Name Corner */
 .navbar-b .navbar-brand {
   color: #fff;
   font-size: 1.6rem;
@@ -526,13 +527,13 @@ a:hover {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -601,7 +602,7 @@ a:hover {
 }
 
 .intro .intro-content {
-  text-align: center;
+  text-align: left;
   position: absolute;
 }
 
@@ -617,8 +618,8 @@ a:hover {
 }
 
 .intro .intro-title {
-  color: #fff;
-  font-weight: 600;
+  color: #ff0000;
+  font-weight:600;
   font-size: 3rem;
 }
 
@@ -646,7 +647,7 @@ a:hover {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -691,7 +692,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
 }
 
 /*======================================
@@ -701,20 +702,21 @@ a:hover {
 .service-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
-  border-radius: 1rem;
+  border-radius: 0.5rem;
   margin-bottom: 3rem;
+
 }
 
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   box-shadow: 0 0 0 10px #f5f7fa;
 }
 
 .service-box .service-ico {
   margin-bottom: 1rem;
-  color: #1e1e1e;
+  color: #3B3B3B;
 }
 
 .service-box .ico-circle {
@@ -730,7 +732,7 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #979797;
 }
 
 /*======================================
@@ -793,17 +795,17 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #ff9d00;
+  color: #3B3B3B;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .work-content .w-like .num-like {
@@ -846,7 +848,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #ff9d00;
+  color: #3B3B3B;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -879,7 +881,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   border-radius: 4px;
 }
 
@@ -933,7 +935,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #ff9d00;
+  border-left: 4px solid #3B3B3B;
   margin-top: 1rem;
 }
 
@@ -943,7 +945,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -951,7 +953,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #ff9d00;
+  border-left: 4px solid #3B3B3B;
   padding: 18px;
   font-style: italic;
 }
@@ -983,7 +985,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #ff9d00;
+  color: #3B3B3B;
 }
 
 .box-comments .list-comments span {
@@ -1000,7 +1002,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #ff9d00;
+  border-left: 5px solid #3B3B3B;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1017,7 +1019,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   top: 20px;
 }
 
@@ -1028,8 +1030,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #ff9d00;
-  border-color: #ff9d00;
+  background-color: #3B3B3B;
+  border-color: #3B3B3B;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1037,7 +1039,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   padding: .2rem .6rem;
   margin-bottom: .5rem;
   border-radius: 15px;
@@ -1086,8 +1088,8 @@ footer .credits a {
 ======================================*/
 
 #sendmessage {
-  color: #ff9d00;
-  border: 1px solid #ff9d00;
+  color: #3B3B3B;
+  border: 1px solid #3B3B3B;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1144,13 +1146,13 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #69696;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
-  background-color: #ff9d00;
+  background-color: #3B3B3B;
   color: #fff;
   border-color: #f5f7fa;
 }
@@ -1209,11 +1211,11 @@ footer .credits a {
   }
 
   .intro .intro-title {
-    font-size: 4.5rem;
+    font-size: 2.5rem;
   }
 
   .intro .intro-subtitle {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 
   .intro-single .intro-title {
